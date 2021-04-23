@@ -1,0 +1,8 @@
+.password {
+    -webkit-text-security: circle;
+}
+
+.dropdown-toggle,
+.dropdown-item {
+    cursor: pointer;
+}
